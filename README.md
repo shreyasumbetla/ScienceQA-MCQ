@@ -8,3 +8,4 @@ A sample command to run the baseline model with distilroberta-base as pre-traine
 ```
 python train_scienceqa.py --name distilroberta-base --epochs 20
 ```
+To see our results and methods refer to the [PDF report](ScienceQA-report.pdf) in the repository.
